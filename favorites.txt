@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 Adobo
 Pizza
 Tinola
 Hipon
 
+=======
+Fast & Furious
+One Piece red
+Slamdunk movie
+>>>>>>> movies
